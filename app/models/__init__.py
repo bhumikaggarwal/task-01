@@ -1,0 +1,1 @@
+"""Defines how application data maps to database tables."""
